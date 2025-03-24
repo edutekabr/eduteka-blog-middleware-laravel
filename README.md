@@ -1,6 +1,6 @@
 ## Como utilizar Middlewares no Laravel 10
 
-Confira um exemplo prático de uso dos Middlewares para descobrir o País de localização do usuário com base em parâmetros enviados via URL.
+Confira um exemplo prático de uso dos Middlewares para descobrir o País de localização do usuário com base em parâmetros enviados via URL. Código criado com base no artigo do blog da eduteka.com.br.
 
 Lembre-se de rodar os seguintes comandos para testar o projetinho:
 
